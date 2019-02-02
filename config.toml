@@ -5,7 +5,8 @@ theme = "m10c"
 publishdir = "public"
 [params]
   author="tama"
-
+  description="駆け出しエンジニア"
+  
 [[params.social]]
   name = "github"
   url = "https://github.com/osanpozuki"
