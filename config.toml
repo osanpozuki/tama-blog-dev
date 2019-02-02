@@ -1,0 +1,16 @@
+baseURL = "http://example.org/"
+languageCode = "jp"
+title = "たま"
+theme = "m10c"
+publishdir = "public"
+[params]
+  author="tama"
+  description="junior enginner"
+
+[[params.social]]
+  name = "github"
+  url = "https://github.com/osanpozuki"
+
+[[params.social]]
+  name = "twitter"
+  url = "https://twitter.com/osanpozuki"
