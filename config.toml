@@ -1,11 +1,10 @@
-baseURL = "http://example.org/"
+baseURL = "https://osanpozuki.github.io/tama-blog/"
 languageCode = "jp"
 title = "たま"
 theme = "m10c"
 publishdir = "public"
 [params]
   author="tama"
-  description="junior enginner"
 
 [[params.social]]
   name = "github"
