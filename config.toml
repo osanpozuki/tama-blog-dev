@@ -2,6 +2,7 @@ baseURL = "https://osanpozuki.github.io/tama-blog/"
 languageCode = "jp"
 title = "たま"
 theme = "m10c"
+googleAnalytics = "UA-135002662-1"
 publishdir = "public"
 [params]
   author="tama"
